@@ -1,0 +1,74 @@
+body {
+    background-image:url(https://i.redd.it/3t88melm5eb01.jpg);
+    color:white;
+    text-align:center;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    font-size:80px;
+}
+
+.slides {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:300px;
+    border:solid white 5px;
+}
+
+.sponser {
+    display:flex;
+    justify-content:center;
+    font-family: 'Ranga', cursive;
+}
+
+.pewnews {
+    height:50px;
+}
+
+.hashtag {
+    color:#1C94E0;
+    font-size:20px;
+    font-family:arial;
+}
+
+marquee {
+    width:300px;
+}
+
+.socialmedia {
+    display:flex;
+    justify-content:center;
+}
+
+.donate {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family:arial;
+}
+
+.donate:hover {
+    background-color:#439946;
+    transition: .5s ease;
+}
+
+h2 {
+    text-decoration:underline;
+    font-family:Righteous;
+    font-size:50px;
+}
+
+.text {
+    margin-left:500px;
+    margin-right:500px;
+    font-family: 'Lato', sans-serif;
+}
